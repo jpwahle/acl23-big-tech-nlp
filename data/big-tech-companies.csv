@@ -1,0 +1,101 @@
+rank,canonicalname,marketcap,country,aliases
+1,Apple,2304392036352,United States,
+2,Microsoft,1761180647424,United States
+3,Alphabet,1307081048064,United States,"Alphabet, Google"
+4,Amazon,1174120824832,United States,
+5,Tesla,644848080000,United States
+6,Meta Platforms,353493450752,United States,"FAIR, Facebook"
+7,TSMC,329730949120,Taiwan
+8,NVIDIA,303874473984,United States
+9,Tencent,289212235776,China
+10,Samsung,262775189581,South Korea
+11,Alibaba,193460846592,China
+12,Oracle,186709770240,United States
+13,Broadcom,174274936832,United States
+14,ASML,173683638272,Netherlands
+15,Cisco,171957813248,United States
+16,Salesforce,157499998208,United States
+17,Adobe,140576456704,United States
+18,Texas Instruments,139652005888,United States
+19,QUALCOMM,126730002432,United States
+20,Netflix,119252361216,United States
+21,IBM,114997862400,United States
+22,Intuit,113331290112,United States
+23,Meituan,111645934636,China
+24,Intel,107084472320,United States
+25,SAP,101649940480,Germany
+26,PayPal,98046369792,United States
+27,Automatic Data Processing,95301206016,United States
+28,AMD,93259268096,United States
+29,Sony,80396599296,Japan
+30,Keyence,76977589790,Japan
+31,Pinduoduo,75698528256,China
+32,Airbnb,74821386240,United States
+33,Analog Devices,73077710848,United States
+34,ServiceNow,71964524544,United States
+35,Booking Holdings,70423707648,United States,"Booking, booking.com"
+36,Applied Materials,67671908352,United States
+37,Schneider Electric,67041776739,France
+38,Jingdong Mall,66961461248,China
+39,Fiserv,61547192320,United States
+40,Micron Technology,58381033472,United States
+41,Activision Blizzard,57350926336,United States
+42,Snowflake,55692795904,United States
+43,Uber,55180374016,United States
+44,Atlassian,52693127168,Australia
+45,Lam Research,48531415040,United States
+46,Equinix,47923769344,United States
+47,Palo Alto Networks,47446368256,United States
+48,Nintendo,46703758039,Japan
+49,Fidelity National Information Services,46650183680,United States
+50,Vmware,45521719296,United States
+51,Foxconn,44599144079,Taiwan,"Hon Hai, Hon Hai Precision Industry"
+52,SK Hynix,44514312954,South Korea
+53,Synopsys,44299845632,United States
+54,Dassault Systèmes,44239892149,France
+55,NetEase,43229806592,China
+56,Autodesk,42703388672,United States
+57,Cadence Design Systems,42099310592,United States
+58,MercadoLibre,41301061632,Argentina
+59,Fortinet,40679800832,United States
+60,Tokyo Electron,40531773723,Japan
+61,Adyen,40409860838,Netherlands
+62,Twitter,40129499136,United States
+63,Roper Technologies,39375331328,United States
+64,KLA,39282237440,United States
+65,Shopify,37708939264,Canada
+66,Workday,37503963136,United States
+67,NXP Semiconductors,37110468608,Netherlands
+68,CrowdStrike,36934430720,United States
+69,TE Connectivity,35473346560,Switzerland
+70,Electronic Arts,34433138688,United States
+71,IQVIA,33271107584,United States
+72,Enphase Energy,33090787328,United States
+73,Baidu,32820768768,China
+74,Microchip Technology,32773384192,United States
+75,Block,32566904832,United States
+76,Arista Networks,32463171584,United States
+77,Marvell Technology Group,32458481664,United States
+78,Infineon,31348841333,Germany
+79,Global Payments,31258443776,United States
+80,Xiaomi,30011170816,China
+81,Sea Garena,29826127872,Singapore,Garena
+82,STMicroelectronics,29236334592,Switzerland
+83,Coupang,29150220288,South Korea
+84,Murata Manufacturing,29034282760,Japan,"Murata Seisakusho, Murata"
+85,GlobalFoundries,28778766336,United States
+86,Keysight,28750397440,United States
+87,CoStar Group,28694185984,United States
+88,Constellation Software,28478260134,Canada
+89,MediaTek,28052470940,Taiwan
+90,The Trade Desk,26966374400,United States
+91,ON Semiconductor,26652678144,United States
+92,HP,26442960896,United States
+93,Nokia,26251055104,Finland
+94,Datadog,26056163328,United States
+95,Dell,25279776768,United States
+96,Wolters Kluwer,24522994584,Netherlands
+97,Veeva Systems,24254980096,United States
+98,Zoom,23799693312,United States
+99,SMIC,22562147298,China
+100,Canon,22543478784,Japan
