@@ -1,7 +1,7 @@
 # Measuring Industry Presence in NLP Research
 [![arXiv](https://img.shields.io/badge/arXiv-2305.02797-b31b1b.svg)](arxiv.org/abs/2305.02797)
 
-This repository contains the code and data for the paper [Measuring Industry Presence in Natural Language Processing Research](https://example.com/).
+This repository contains the code and data for the paper [The Elephant in the Room: Analyzing the Presence of Big Tech in Natural Language Processing Research](arxiv.org/abs/2305.02797).
 
 ## Data
 If you want to use our preprocessed data, consider `data/processed_data.zip`.
