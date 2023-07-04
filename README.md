@@ -1,5 +1,6 @@
 # The Elephant in the Room: Analyzing the Presence of Big Tech in Natural Language Processing Research
 [![arXiv](https://img.shields.io/badge/arXiv-2305.02797-b31b1b.svg)](arxiv.org/abs/2305.02797)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This repository contains the code and data for the ACL 2023 paper [The Elephant in the Room: Analyzing the Presence of Big Tech in Natural Language Processing Research](arxiv.org/abs/2305.02797).
 
