@@ -19,3 +19,17 @@ To reproduce the dataset, you can use the notebook `notebooks/datasets.ipynb`.
 
 ### Analysis
 For running parts of the analysis of the paper, you can use the notebook `notebooks/analysis.ipynb`.
+
+## How to Cite
+
+```tex
+@article{abdalla2023elephant,
+	title        = {The elephant in the room: Analyzing the presence of big tech in natural language processing research},
+	author       = {Abdalla, Mohamed and Wahle, Jan Philip and Ruas, Terry and N{\'e}v{\'e}ol, Aur{\'e}lie and Ducel, Fanny and Mohammad, Saif M and Fort, Kar{\"e}n},
+	year         = 2023,
+	month        = jul,
+	booktitle    = {Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+	publisher    = {Association for Computational Linguistics},
+	address      = {Toronto, Canada}
+}
+```
