@@ -3,6 +3,10 @@
 
 This repository contains the code and data for the paper [The Elephant in the Room: Analyzing the Presence of Big Tech in Natural Language Processing Research](arxiv.org/abs/2305.02797).
 
+
+[![teaser](./teaser.png)](./teaser.png)
+
+
 ## Data
 If you want to use our preprocessed data, consider `data/processed_data.zip`.
 
